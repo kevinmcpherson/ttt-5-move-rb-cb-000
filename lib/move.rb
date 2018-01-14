@@ -8,7 +8,8 @@ end
 
 # code your input_to_index and move method here!
 def input_to_index(number)
-number  = gets.chomp
+  number  = gets.chomp
+  puts("number".to_i)
 end
 
 def move(board, index, char)
