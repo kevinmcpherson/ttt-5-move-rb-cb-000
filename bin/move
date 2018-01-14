@@ -9,6 +9,6 @@ puts "Welcome to Tic Tac Toe!"
 puts "Where would you like to go?"
 puts "please enter 1-9"
 
-number  = gets.chomp.to_i
+input_to_index(number)
 
 display_board(board)
