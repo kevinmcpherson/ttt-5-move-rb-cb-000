@@ -7,7 +7,7 @@ board      = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 # Code your CLI Here
 puts "Welcome to Tic Tac Toe!"
 puts "Where would you like to go?"
-puts "please enter a number 1-9"
+print "please enter a number 1-9"
 
 number = gets
 
